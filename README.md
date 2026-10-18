@@ -1,5 +1,6 @@
-# Frienden static deployment
+# Frienden deployment
 
-This public repository contains static deployment artifacts only. Application source remains in https://github.com/Jyonn/Sermo-Frontend. The existing Sermo Pages site stays in its original repository and retains its custom domain.
+Public static build artifacts only. Source: https://github.com/Jyonn/Sermo-Frontend/commit/25eef466cf920deb15d3b62b897bfe4fe4b4fbeb
 
-Planned independent domain: https://frienden.jyonn.space
+Release: 2026.10.18.2
+Domain: https://frienden.jyonn.space

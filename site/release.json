@@ -1,0 +1,20 @@
+{
+  "id": "2026.10.18.2",
+  "publishedAt": "2026-10-18",
+  "locales": {
+    "zh-CN": {
+      "title": "四站更新与迁移指引",
+      "items": [
+        "检查更新可查看 Frienden 与 Sermo 四个站点的实际版本",
+        "旧域名保留使用，新站通过检查后每周提示迁移，账号与数据不变"
+      ]
+    },
+    "en": {
+      "title": "Frienden site migration",
+      "items": [
+        "Check actual versions across all four Frienden and Sermo sites",
+        "Keep using existing sites, with weekly migration reminders once the new sites are verified; your account and data stay the same"
+      ]
+    }
+  }
+}
