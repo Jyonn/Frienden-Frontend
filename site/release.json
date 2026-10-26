@@ -1,17 +1,19 @@
 {
-  "id": "2026.10.27.6",
+  "id": "2026.10.27.8",
   "publishedAt": "2026-10-27",
   "locales": {
     "zh-CN": {
-      "title": "界面细节更简洁",
+      "title": "锁定消息入口更直接",
       "items": [
-        "输入框操作简化为折叠与展开，减少个人名片日历下方的重复留白"
+        "点击整条锁定栏即可查看锁定消息，矮屏时入口收进会话顶部菜单旁",
+        "修复平板导航头像居中，矮屏隐藏头像并默认折叠输入框"
       ]
     },
     "en": {
-      "title": "Cleaner interface details",
+      "title": "Quicker access to pinned messages",
       "items": [
-        "Shorten composer layout labels and remove duplicate spacing below profile calendars"
+        "Open pinned messages from the entire bar, or a header lock button on short screens",
+        "Center tablet navigation avatars and simplify navigation and composing on short screens"
       ]
     }
   }
