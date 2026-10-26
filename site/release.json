@@ -1,21 +1,19 @@
 {
-  "id": "2026.10.26.6",
+  "id": "2026.10.26.8",
   "publishedAt": "2026-10-26",
   "locales": {
     "zh-CN": {
-      "title": "数字交锋独立房间",
+      "title": "数字交锋滚动体验优化",
       "items": [
-        "进入独立对战房间后，双方按较低等级共同确认积分档位",
-        "统一入场投入与结算规则：胜者获得双方投入，平局或异常结束退款，取消首场保护",
-        "新增专属邀请卡片和推理桌面背景，好友通过链接入场，无需房间号"
+        "活动页与房间页滚动边界更稳定，短屏和横屏也能完整查看底部内容",
+        "房间标题保持在顶部，底部操作预留安全空间"
       ]
     },
     "en": {
-      "title": "Dedicated Code Duel rooms",
+      "title": "Smoother Code Duel scrolling",
       "items": [
-        "Enter a dedicated room and agree on a tier unlocked by both players",
-        "Both commit entry points; the winner receives both entries, with refunds for draws or abnormal endings and no first-match protection",
-        "A crafted room background and dedicated invitation cards let friends join without room codes"
+        "Activity and room content stays fully reachable on short screens and in landscape",
+        "Room headers stay visible while bottom actions retain safe spacing"
       ]
     }
   }
