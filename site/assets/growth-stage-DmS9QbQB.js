@@ -1,0 +1,1 @@
+function n(r,t){return`LV ${Math.max(1,Math.min(18,Math.trunc(r||1)))}${t!=null&&t.trim()?`·${t.trim()}`:""}`}function u(r){return r<=2?"plain":r<=5?"basic":r<=8?"select":r<=11?"rare":r<=14?"epic":r<=17?"legendary":"mythic"}export{n as a,u as g};
