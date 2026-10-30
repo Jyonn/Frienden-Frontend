@@ -1,17 +1,19 @@
 {
-  "id": "2026.10.31.3",
+  "id": "2026.10.31.5",
   "publishedAt": "2026-10-31",
   "locales": {
     "zh-CN": {
-      "title": "聊天搜索修复",
+      "title": "聊天快捷栏动态优化",
       "items": [
-        "修复从聊天详情打开搜索聊天记录时抽屉无法保持显示的问题"
+        "快捷栏显示加载反馈，按钮准备好后依次轻盈进入",
+        "展开、收起快捷栏更加流畅，并适配减少动态效果设置"
       ]
     },
     "en": {
-      "title": "Chat search fix",
+      "title": "Smoother chat quick actions",
       "items": [
-        "Fixed message search closing immediately when opened from chat details"
+        "Quick actions show loading feedback and gently enter as their data becomes ready",
+        "Opening and closing the toolbar feels smoother and respects reduced motion preferences"
       ]
     }
   }
