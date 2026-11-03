@@ -1,1 +1,2 @@
-self.SERMO_RELEASE_ID = "2026.11.03.1";
+// Legacy worker bootstrap only. Frontend versions are served by the release API.
+self.SERMO_RELEASE_ID = null;
