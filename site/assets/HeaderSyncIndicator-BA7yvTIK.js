@@ -1,0 +1,1 @@
+import{j as s}from"./framework-DoSWwKNX.js";import{a as e}from"./index-BwnXOtA1.js";function i({syncing:a}){const{t:r}=e();return a?s.jsx("span",{"aria-label":r("header.syncing"),className:"header-sync-indicator",role:"status",children:s.jsx("span",{className:"material-symbols-outlined",children:"progress_activity"})}):null}export{i as H};
