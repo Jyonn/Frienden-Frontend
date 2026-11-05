@@ -1,19 +1,25 @@
 {
-  "id": "2026.11.05.1",
+  "id": "2026.11.05.2",
   "publishedAt": "2026-11-05",
   "locales": {
     "zh-CN": {
-      "title": "Monifa 验证码分享卡片",
+      "title": "科研任务与汇报协作",
       "items": [
-        "Monifa 分享链接支持验证码卡片，可复制、查看有效时间并手动刷新",
-        "过期验证码自动隐藏，分享撤销或网络异常时展示明确状态"
+        "科研概览聚焦成员、里程碑与介绍，任务支持单一汇报周期和自动待办",
+        "汇报与讨论支持二级回复、成员和日期组合筛选，答复请求在实际回复后自动完成",
+        "科研奖励支持报告自动发放、评论 BONUS 编辑与来源跳转，日报可记录 AI 与思考工时",
+        "报销支持日期区间、多项目凭证和外币中行折算价，金额统一保留两位小数",
+        "日期统一使用连续月历，优化科研按钮与手机弹层层级，移除任务资源入口"
       ]
     },
     "en": {
-      "title": "Monifa shared code cards",
+      "title": "Research tasks and reporting",
       "items": [
-        "Monifa share links display codes with copy, expiry and manual refresh controls",
-        "Expired codes are hidden, with clear states for revoked shares and network errors"
+        "Focused research overviews, one reporting frequency per task and automatic to-dos",
+        "Threaded discussions with member/date filters and requests completed by actual replies",
+        "Automatic report rewards, editable comment bonuses and source links, plus AI/thinking work durations",
+        "Itemized reimbursements with date ranges, evidence and foreign-currency BOC quotes, rounded to two decimals",
+        "Shared scrolling calendars, compact research controls and corrected mobile overlay ordering; task resource entries removed"
       ]
     }
   }
