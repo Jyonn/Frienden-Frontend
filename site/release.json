@@ -1,19 +1,25 @@
 {
-  "id": "2026.11.07.1",
+  "id": "2026.11.07.2",
   "publishedAt": "2026-11-07",
   "locales": {
     "zh-CN": {
-      "title": "聊天输入与日程优化",
+      "title": "聊天与界面样式优化",
       "items": [
-        "小哀语音气泡统一主题配色；Mac 使用 Command＋Enter 换行，Windows 使用 Ctrl＋Enter",
-        "日程优先显示当前任务，无今日后续安排时显示今日空闲，浮动日历更紧凑并展示六小时忙闲"
+        "语音转写改为下方独立引用框，匹配各款气泡材质并保持底色清晰；语音长度随时长变化，长文本保持舒适阅读宽度",
+        "修正首页语言选择按钮的异常椭圆外形",
+        "七个主 Tab 的深色内容区统一使用原聊天列表底色，Header 保留独立层次，手机滚动后浮现背景",
+        "活动新增奖励节点与概览，规则奖池收进下一级并适配深浅色；八仙移除联名标识，更新星旋与 VIP 字标",
+        "活动无法领取时明确展示未满足的空间功能条件"
       ]
     },
     "en": {
-      "title": "Chat input and calendar refinements",
+      "title": "Chat and interface refinements",
       "items": [
-        "Ai voice bubbles match their theme; use Command+Enter on Mac or Ctrl+Enter on Windows for a new line",
-        "Calendar summaries prioritize ongoing events and today's availability, with a compact six-hour timeline"
+        "Transcripts appear as separate readable quotes matching each bubble skin, with duration-based playback widths and comfortable text widths",
+        "Corrected the stretched oval shape of the homepage language selector",
+        "All seven main tabs share the original dark chat-list background, with distinct header surfaces and mobile scroll elevation",
+        "Activities add reward milestones and previews with theme-aware secondary panels; Baxian drops co-branding, and Starry Night and VIP gain new lettering",
+        "Unavailable activity claims clearly explain unmet space feature requirements"
       ]
     }
   }
