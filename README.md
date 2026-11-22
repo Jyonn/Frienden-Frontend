@@ -1,6 +1,6 @@
 # Frienden deployment
 
-Public static build artifacts only. Source: https://github.com/Jyonn/Sermo-Frontend/commit/23f807fb90ed7ea483b3bae8bb6b315776761e54
+Public static build artifacts only. Source: https://github.com/Jyonn/Sermo-Frontend/commit/d4f951e3cd2289e842cb32e7a84a38cf3e973a4f
 
-Release: 2026.11.22.2
+Release: 2026.11.22.3
 Domain: https://frienden.jyonn.space
