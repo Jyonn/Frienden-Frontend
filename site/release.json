@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.29.2",
+  "id": "2026.11.29.3",
   "publishedAt": "2026-11-29",
   "locales": {
     "zh-CN": {
-      "title": "细化私聊邀约",
+      "title": "精简邀约表单",
       "items": [
-        "邀约时间用小时和分钟双滚轮选择，分钟每 5 分钟一格。邀约和回应卡片随聊天气泡主题显示。"
+        "在同一面板选择邀约的起止日期和时间，跨天根据日期自动判断。保存到日历时可用站内面板选择类别组。"
       ]
     },
     "en": {
-      "title": "A new time picker for chat invitations",
+      "title": "A simpler invitation form",
       "items": [
-        "Choose invitation times with separate hour and minute wheels in five-minute increments. Invitations and replies follow the sender’s chat bubble style."
+        "Choose the start and end dates and times in one panel. Invitations can span days, and calendar groups use the in-app picker."
       ]
     }
   }
