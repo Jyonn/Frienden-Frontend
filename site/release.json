@@ -1,19 +1,19 @@
 {
-  "id": "2026.11.28.13",
+  "id": "2026.11.28.14",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "视频倍速和下滑退出更顺滑",
+      "title": "五月天与 SHE 的沉浸名片",
       "items": [
-        "优化长按两倍速播放时的画面和进度更新。",
-        "下滑退出需要拖得更远或快速滑动，松手后整个预览继续滑出屏幕。"
+        "五月天与 SHE 的个人名片换上全屏竖版动态舞台。",
+        "轻点封面或上滑可展开个人资料。"
       ]
     },
     "en": {
-      "title": "Smoother video playback and swipe dismissal",
+      "title": "Immersive Mayday and S.H.E profile cards",
       "items": [
-        "Hold to play at double speed with smoother progress updates.",
-        "Drag farther or flick down to dismiss. The whole preview slides offscreen after release."
+        "Mayday and S.H.E profile cards now open on full-screen animated portrait stages.",
+        "Tap the cover or swipe up to reveal the profile."
       ]
     }
   }
