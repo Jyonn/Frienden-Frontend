@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.28.22",
-  "publishedAt": "2026-11-28",
+  "id": "2026.11.29.1",
+  "publishedAt": "2026-11-29",
   "locales": {
     "zh-CN": {
-      "title": "好友日历支持邀约",
+      "title": "私聊邀约与回应",
       "items": [
-        "好友日历的顶部更紧凑。双方绑定时序后，可以在私聊中发送、接受和婉拒日程邀约。"
+        "在独立面板里填写日程邀约并发送到私聊。好友接受或婉拒后，私聊会收到对应的回应卡片。"
       ]
     },
     "en": {
-      "title": "Invitations from a friend's calendar",
+      "title": "Calendar invitations and replies in chat",
       "items": [
-        "Friend calendars use a compact header. When both friends have linked Chronelle, you can send, accept, and decline invitations in chat."
+        "Compose a calendar invitation in its own panel and send it as a chat card. Accepting or declining adds a reply card to the conversation."
       ]
     }
   }
