@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.28.19",
+  "id": "2026.11.28.20",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "群聊与评论支持匿名",
+      "title": "音乐与录音实时波形",
       "items": [
-        "在普通群聊或广场评论的「+」菜单开启匿名。每次开启会分配带主题色的临时昵称，退出后即丢弃。"
+        "音乐播放抽屉和聊天录音面板新增随声音起伏的实时波形。"
       ]
     },
     "en": {
-      "title": "Anonymous group chat and comments",
+      "title": "Live spectrum for music and recordings",
       "items": [
-        "Open the + menu to go anonymous in group chat or Square comments. Each session gets a temporary nickname and color."
+        "See a live audio spectrum in the music player and while recording a voice message."
       ]
     }
   }
