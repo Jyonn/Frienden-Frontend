@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.28.15",
+  "id": "2026.11.28.16",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "麻将换上新牌面",
+      "title": "永久 VIP 特权一览",
       "items": [
-        "麻将的万、筒、索与字牌换上新的刻印图案。牌桌和玩法示例同步更新。"
+        "永久 VIP 活动页现在完整列出聊天、广场、个性化和应用联动特权，并说明各项额度和使用条件。"
       ]
     },
     "en": {
-      "title": "New mahjong tile faces",
+      "title": "All permanent VIP perks",
       "items": [
-        "Mahjong has new engraved-style faces for characters, dots, bamboo, winds, and dragons. See them at the table and in the rules guide."
+        "See every permanent VIP perk on the activity page, with allowances and conditions for chat, Square, personalization, and connected apps."
       ]
     }
   }
