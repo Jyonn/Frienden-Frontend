@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.28.21",
+  "id": "2026.11.28.22",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "优化歌手气泡的昵称位置",
+      "title": "好友日历支持邀约",
       "items": [
-        "使用典藏歌手气泡时，聊天昵称紧贴气泡上缘。"
+        "好友日历的顶部更紧凑。双方绑定时序后，可以在私聊中发送、接受和婉拒日程邀约。"
       ]
     },
     "en": {
-      "title": "Singer bubble nickname alignment",
+      "title": "Invitations from a friend's calendar",
       "items": [
-        "Nicknames now sit just above collectible singer bubbles."
+        "Friend calendars use a compact header. When both friends have linked Chronelle, you can send, accept, and decline invitations in chat."
       ]
     }
   }
