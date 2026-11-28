@@ -1,19 +1,19 @@
 {
-  "id": "2026.11.28.12",
+  "id": "2026.11.28.13",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "媒体预览手势更顺滑",
+      "title": "视频倍速和下滑退出更顺滑",
       "items": [
-        "完整展示时，拖动会沿开始的方向切换媒体、查看详情或退出预览。",
-        "下滑时，画面和控件一起跟随并淡出。"
+        "优化长按两倍速播放时的画面和进度更新。",
+        "下滑退出需要拖得更远或快速滑动，松手后整个预览继续滑出屏幕。"
       ]
     },
     "en": {
-      "title": "Smoother media preview gestures",
+      "title": "Smoother video playback and swipe dismissal",
       "items": [
-        "Fit-to-screen previews follow the initial swipe direction when browsing, opening details, or closing.",
-        "Swipe down to move and fade the entire preview together."
+        "Hold to play at double speed with smoother progress updates.",
+        "Drag farther or flick down to dismiss. The whole preview slides offscreen after release."
       ]
     }
   }
