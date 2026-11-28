@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.28.16",
+  "id": "2026.11.28.19",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "永久 VIP 特权一览",
+      "title": "群聊与评论支持匿名",
       "items": [
-        "永久 VIP 活动页现在完整列出聊天、广场、个性化和应用联动特权，并说明各项额度和使用条件。"
+        "在普通群聊或广场评论的「+」菜单开启匿名。每次开启会分配带主题色的临时昵称，退出后即丢弃。"
       ]
     },
     "en": {
-      "title": "All permanent VIP perks",
+      "title": "Anonymous group chat and comments",
       "items": [
-        "See every permanent VIP perk on the activity page, with allowances and conditions for chat, Square, personalization, and connected apps."
+        "Open the + menu to go anonymous in group chat or Square comments. Each session gets a temporary nickname and color."
       ]
     }
   }
