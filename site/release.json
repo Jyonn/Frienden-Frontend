@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.29.1",
+  "id": "2026.11.29.2",
   "publishedAt": "2026-11-29",
   "locales": {
     "zh-CN": {
-      "title": "私聊邀约与回应",
+      "title": "细化私聊邀约",
       "items": [
-        "在独立面板里填写日程邀约并发送到私聊。好友接受或婉拒后，私聊会收到对应的回应卡片。"
+        "邀约时间用小时和分钟双滚轮选择，分钟每 5 分钟一格。邀约和回应卡片随聊天气泡主题显示。"
       ]
     },
     "en": {
-      "title": "Calendar invitations and replies in chat",
+      "title": "A new time picker for chat invitations",
       "items": [
-        "Compose a calendar invitation in its own panel and send it as a chat card. Accepting or declining adds a reply card to the conversation."
+        "Choose invitation times with separate hour and minute wheels in five-minute increments. Invitations and replies follow the sender’s chat bubble style."
       ]
     }
   }
