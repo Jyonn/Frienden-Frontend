@@ -1,17 +1,17 @@
 {
-  "id": "2026.11.28.20",
+  "id": "2026.11.28.21",
   "publishedAt": "2026-11-28",
   "locales": {
     "zh-CN": {
-      "title": "音乐与录音实时波形",
+      "title": "优化歌手气泡的昵称位置",
       "items": [
-        "音乐播放抽屉和聊天录音面板新增随声音起伏的实时波形。"
+        "使用典藏歌手气泡时，聊天昵称紧贴气泡上缘。"
       ]
     },
     "en": {
-      "title": "Live spectrum for music and recordings",
+      "title": "Singer bubble nickname alignment",
       "items": [
-        "See a live audio spectrum in the music player and while recording a voice message."
+        "Nicknames now sit just above collectible singer bubbles."
       ]
     }
   }
